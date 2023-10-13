@@ -41,5 +41,5 @@
 <br/>
 <br/>
 
-#### Contect :phone:
+#### Contect :e-mail:
 #### E-mail : jh.jaehyuk213@gmail.com
