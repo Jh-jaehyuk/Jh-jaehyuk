@@ -1,45 +1,117 @@
-<div align="center">
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=31FF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+World+!;+I'm+Jaehyuk+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=120&text=Hello%20World!&fontColor=ffffff)
+![profile-view](https://komarev.com/ghpvc/?username=Jh-jaehyuk)
+<br>
+<p>
+  I'm Jaehyuk. I have a Bachelors' Degree in Mechanical System Design Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve algorithm problems 🚀. Apart from that I also love to work out🏋️ and play games🎮. I'm currently into Full stack AI Development 🤖 and working on python 🐍.
+</p>
 
-#### Welcome JH's Github ! :grin:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
+- 🔎 I am a **job seeker**.
+- 💻 Major is **Mechanical System Design Engineering**.
+- 🌱 I'm currently learning **AI(especially LLM) and Python**. 
+- 🤔 My hobbies are **work out🏋️ and play games🎮**.
+- 📝 Sometimes I write articles on **[My website](https://jh-jaehyuk.github.io)**
+- 💬 If you have any questions, **just ask me**.
+- btw I use **Mac** 💻
 
-<br/>
-<br/>
+<h3 align="left"> 📫 How to reach me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="linkedin" height="30" width="30" /></a>
+<a href="https://discord.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349338/discord.svg" alt="discord" height="30" width="30" /></a>
+<a href="jaehyuk213@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon.png" alt="email" height="30" width="30" /></a>
+</p>
 
-#### My Skillset :books:
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jh-jaehyuk.github.io/)](https://jh-jaehyuk.github.io/)
+        
+<h2>👨‍💻 Programming and Markup Languages</h2>
 
-<br/>
+<p>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=000&style=flat"></a>
+<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
+</p>
 
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor="white">
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor="white">
-<img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor="white">
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor="white">
-<img src="https://img.shields.io/badge/Mediapipe-000000?style=for-the-badge&logo=Mediapipe&logoColor="white">
+<h2>🧰 Frameworks and Libraries</h2>
 
+<p>
+<a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat"></a>
+</p>
 
-<br/>
-<br/>
+<h2>🗄️ Databases and Cloud Hosting</h2>
 
-#### More Information :fire:
+<p>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
+</p>
 
-<br/>
+<h2>💻 Software and Tools</h2>
+
+<p>
+<a href="#"><img alt="Macos" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
+<a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Vim" src="https://img.shields.io/badge/vim-019733?logo=vim&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker%20Desktop-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Desktop Badge"></a>
+</p>
+
+<h2>📊 Github Stats and Activity</h2>
+
+<h3>🔥 Streak Stats</h3>
+
+<p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jh-jaehyuk&theme=dracula" alt="GitHub Streak" /></a>
+</p>
+
+<h3>📊 GitHub Profile Stats</h3>
+
+<p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh-jaehyuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh-jaehyuk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<h3>📚 Problem Solving Stats</h3>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=J213h)](https://solved.ac/J213h)
 
-<br/>
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh-jaehyuk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://profile-counter.glitch.me/{Jh-jaehyuk}/count.svg" alt="Jh-jaehyuk" /> </p>
 
-<br/>
-<br/>
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+</a>
 
-#### Contect :e-mail:
-#### E-mail : jh.jaehyuk213@gmail.com
+-----
+Credits: [Jh-jaehyuk](https://github.com/vibrantfix)
+
+Last Edited on: 16/08/2024
