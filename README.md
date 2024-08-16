@@ -113,6 +113,6 @@
 </a>
 
 -----
-Credits: [Jh-jaehyuk](https://github.com/vibrantfix)
+Credits: [Jh-jaehyuk](https://github.com/Jh-jaehyuk)
 
 Last Edited on: 16/08/2024
