@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
 - 🔎 I am a **job seeker**.
-- 💻 Major is **Mechanical System Design Engineering**.
+- 🎓 Major is **Mechanical System Design Engineering**.
 - 🌱 I'm currently learning **AI(especially LLM) and Python**. 
 - 🤔 My hobbies are **work out🏋️ and play games🎮**.
 - 📝 Sometimes I write articles on **[My website](https://jh-jaehyuk.github.io)**
