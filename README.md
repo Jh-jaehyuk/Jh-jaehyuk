@@ -59,6 +59,7 @@
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>💻 Software and Tools</h2>
@@ -72,7 +73,7 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-<a href="#"><img alt="Vim" src="https://img.shields.io/badge/vim-019733?logo=vim&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
