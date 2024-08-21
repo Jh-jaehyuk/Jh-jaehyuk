@@ -13,7 +13,7 @@
 - 🔎 I am a **job seeker**.
 - 🎓 Major is **Mechanical System Design Engineering**.
 - 🌱 I'm currently learning **AI(especially LLM) and Python**. 
-- 🤔 My hobbies are **work out🏋️ and play games🎮**.
+- 🤔 My hobbies are **working out🏋️ and playing games🎮**.
 - 📝 Sometimes I write articles on **[My website](https://jh-jaehyuk.github.io)**
 - 💬 If you have any questions, **just ask me**.
 - btw I use **Mac** 💻
@@ -37,6 +37,7 @@
 <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>🧰 Frameworks and Libraries</h2>
@@ -49,7 +50,10 @@
 <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit%20learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=000&style=flat"></a>
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
@@ -60,6 +64,7 @@
 <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=fff&style=flat"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>💻 Software and Tools</h2>
@@ -78,6 +83,7 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker%20Desktop-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Desktop Badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=flat" alt="Xcode Badge"></a>
 </p>
 
 <h2>📊 Github Stats and Activity</h2>
