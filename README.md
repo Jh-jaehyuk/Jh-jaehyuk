@@ -64,6 +64,7 @@
 <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=flat"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"></a>
 </p>
 
