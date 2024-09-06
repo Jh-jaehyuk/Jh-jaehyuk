@@ -20,7 +20,7 @@
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="linkedin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/jaehyuk-han-726a66326/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="linkedin" height="30" width="30" /></a>
 <a href="https://discordapp.com/users/514430311451459599" target="blank"><img align="center" src="https://www.svgrepo.com/show/349338/discord.svg" alt="discord" height="30" width="30" /></a>
 <a href="mailto:jaehyuk213@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon.png" alt="email" height="30" width="30" /></a>
 </p>
