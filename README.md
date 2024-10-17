@@ -99,6 +99,8 @@
 <h3>📊 GitHub Profile Stats</h3>
 
 <p>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=jh-jaehyuk&rank=-C,-B)](https://github.com/jh-jaehyuk/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh-jaehyuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
