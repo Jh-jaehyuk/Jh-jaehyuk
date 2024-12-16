@@ -38,6 +38,7 @@
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-000000?logo=openjdk&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>🧰 Frameworks and Libraries</h2>
@@ -55,6 +56,7 @@
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=000&style=flat"></a>
 <a href="#"><img alt="tqdm" src="https://img.shields.io/badge/tqdm-FFC107?logo=tqdm&logoColor=000&style=flat"></a>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
