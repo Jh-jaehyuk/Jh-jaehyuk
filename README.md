@@ -25,7 +25,7 @@
 <a href="mailto:jaehyuk213@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon.png" alt="email" height="30" width="30" /></a>
 </p>
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jh-jaehyuk.github.io/)](https://jh-jaehyuk.github.io/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://j213h.notion.site/J213h-s-Archive-1a6907862a5d80efaebbc4be872a00b8?pvs=74)](https://j213h.notion.site/J213h-s-Archive-1a6907862a5d80efaebbc4be872a00b8?pvs=74)
         
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
