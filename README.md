@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-- 🔎 I am a **job seeker**.
+- 🖥️ I am a **Server Developer**.
 - 🎓 Major is **Mechanical System Design Engineering**.
 - 🌱 I'm currently learning **AI(especially LLM) and Python**. 
 - 🤔 My hobbies are **working out🏋️ and playing games🎮**.
@@ -94,22 +94,7 @@
 
 <h3>🔥 Streak Stats</h3>
 
-<p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jh-jaehyuk&theme=dracula" alt="GitHub Streak" /></a>
-</p>
-
-<h3>📊 GitHub Profile Stats</h3>
-
-<p>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=jh-jaehyuk&rank=-C,-B)](https://github.com/jh-jaehyuk/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh-jaehyuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh-jaehyuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jh-jaehyuk)](https://git.io/streak-stats)
 
 <h3>📚 Problem Solving Stats</h3>
 
@@ -118,8 +103,6 @@
 
 <br>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/{Jh-jaehyuk}/count.svg" alt="Jh-jaehyuk" /> </p>
-
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
 </a>
@@ -127,4 +110,4 @@
 -----
 Credits: [Jh-jaehyuk](https://github.com/Jh-jaehyuk)
 
-Last Edited on: 29/10/2024
+Last Edited on: 30/12/2025
